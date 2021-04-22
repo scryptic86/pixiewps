@@ -1,3 +1,8 @@
+This is not the original repository! Please look at the repo I forked this from.
+
+
+
+
 # Overview [![License](https://img.shields.io/badge/License-GPL%20v3%2B-blue.svg?style=flat-square)](LICENSE.md)
 
 **Pixiewps** is a tool written in C used to **bruteforce offline** the WPS PIN exploiting the low or non-existing entropy of some software implementations, the so-called "pixie-dust attack" discovered by Dominique Bongard in summer 2014. It is meant for educational purposes only.
